@@ -2,7 +2,7 @@
     "products": [
         {
             "id": 0,
-            "name": "Product One",
+            "name": "Headphones",
             "description": "string", 
             "price": 100,
             "stock": 100,
@@ -17,15 +17,15 @@
             "images": [
               {
                 "id": 0,
-                "url": "string"
+                "url": "https://unsplash.com/photos/PDX_a_82obo"
               },
               {
                 "id": 1,
-                "url": "string"
+                "url": "https://unsplash.com/photos/dBwadhWa-lI"
               },
               {
                 "id": 2,
-                "url": "string"
+                "url": "https://unsplash.com/photos/PvIz8BmuwDw"
               }
             ]
           },
@@ -46,17 +46,14 @@
             "images": [
                 {
                     "id": 0,
-                    "position": 0,
+                    "url": "https://unsplash.com/photos/potCPE_Cw8A"
+                  },
+                  {
+                    "id": 0,
                     "url": "string"
                   },
                   {
                     "id": 0,
-                    "position": 0,
-                    "url": "string"
-                  },
-                  {
-                    "id": 0,
-                    "position": 0,
                     "url": "string"
                   }
             ]
