@@ -11,7 +11,6 @@
             "image": "https://unsplash.com/photos/PDX_a_82obo",
             "categories": [
               {
-                "id": 0,
                 "name": "electronics"
               }
             ],
@@ -38,9 +37,9 @@
             "stock": 100,
             "featured": false,
             "status": "available",
+            "image": "https://unsplash.com/photos/PDX_a_82obo",
             "categories": [
               {
-                "id": 0,
                 "name": "string"
               }
             ],
@@ -50,11 +49,11 @@
                     "url": "https://unsplash.com/photos/potCPE_Cw8A"
                   },
                   {
-                    "id": 0,
+                    "id": 1,
                     "url": "https://unsplash.com/photos/NaTza96eJm0"
                   },
                   {
-                    "id": 0,
+                    "id": 2,
                     "url": "https://unsplash.com/photos/JfhXlwjgxFw"
                   }
             ]
@@ -67,6 +66,7 @@
             "stock": 100,
             "featured": false,
             "status": "available",
+            "image": "https://unsplash.com/photos/PDX_a_82obo",
             "categories": [
               {
                 "id": 0,
