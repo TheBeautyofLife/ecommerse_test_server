@@ -3,7 +3,7 @@
         {
             "id": 0,
             "name": "Product One",
-            "description": "string",
+            "description": "string", 
             "price": 100,
             "stock": 100,
             "featured": false,
@@ -31,7 +31,7 @@
           },
           {
             "id": 1,
-            "name": "Product One",
+            "name": "Product Two",
             "description": "string",
             "price": 230,
             "stock": 100,
@@ -59,6 +59,35 @@
                     "position": 0,
                     "url": "string"
                   }
+            ]
+          },
+          {
+            "id": 0,
+            "name": "Product Three",
+            "description": "string", 
+            "price": 120,
+            "stock": 100,
+            "featured": false,
+            "status": "available",
+            "categories": [
+              {
+                "id": 0,
+                "name": "string"
+              }
+            ],
+            "images": [
+              {
+                "id": 0,
+                "url": "string"
+              },
+              {
+                "id": 1,
+                "url": "string"
+              },
+              {
+                "id": 2,
+                "url": "string"
+              }
             ]
           }
     ],
