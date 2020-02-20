@@ -1,11 +1,92 @@
 {
     "products": [
-      {
-        "id": 1,
-        "title": "hello"
-      }
+        {
+            "id": 0,
+            "name": "Product One",
+            "description": "string",
+            "price": 100,
+            "stock": 100,
+            "featured": false,
+            "status": "available",
+            "categories": [
+              {
+                "id": 0,
+                "name": "string"
+              }
+            ],
+            "images": [
+              {
+                "id": 0,
+                "url": "string"
+              },
+              {
+                "id": 1,
+                "url": "string"
+              },
+              {
+                "id": 2,
+                "url": "string"
+              }
+            ]
+          },
+          {
+            "id": 1,
+            "name": "Product One",
+            "description": "string",
+            "price": 230,
+            "stock": 100,
+            "featured": false,
+            "status": "available",
+            "categories": [
+              {
+                "id": 0,
+                "name": "string"
+              }
+            ],
+            "images": [
+                {
+                    "id": 0,
+                    "position": 0,
+                    "url": "string"
+                  },
+                  {
+                    "id": 0,
+                    "position": 0,
+                    "url": "string"
+                  },
+                  {
+                    "id": 0,
+                    "position": 0,
+                    "url": "string"
+                  }
+            ]
+          }
     ],
-    "profile": {
-      "name": "typicode"
-    }
+    "customers": [ 
+        {
+            "id": 0,
+            "email": "string",
+            "phone": "string",
+            "status": "approved",
+            "shipping_address": {
+              "name": "string",
+              "surname": "string",
+              "address": "string",
+              "city": "string",
+              "postal": "string",
+              "region": "string",
+              "country": "string"
+            },
+            "billing_address": {
+              "name": "string",
+              "surname": "string",
+              "taxid": "string",
+              "address": "string",
+              "city": "string",
+              "postal": "string",
+              "region": "string",
+              "country": "string"
+            }
+          }
+    ]
   }
