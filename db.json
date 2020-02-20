@@ -8,10 +8,11 @@
             "stock": 6,
             "featured": true,
             "status": "available",
+            "image": "https://unsplash.com/photos/PDX_a_82obo",
             "categories": [
               {
                 "id": 0,
-                "name": "string"
+                "name": "electronics"
               }
             ],
             "images": [
