@@ -8,7 +8,7 @@
             "stock": 6,
             "featured": true,
             "status": "available",
-            "image": "https://unsplash.com/photos/PDX_a_82obo",
+            "image": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=2250&q=80",
             "categories": [
               {
                 "name": "electronics"
@@ -17,7 +17,7 @@
             "images": [
               {
                 "id": 0,
-                "url": "https://unsplash.com/photos/PDX_a_82obo"
+                "url": "https://images.unsplash.com/photo-1505751171710-1f6d0ace5a85?ixlib=rb-1.2.1&auto=format&fit=crop&w=2100&q=80"
               },
               {
                 "id": 1,
@@ -37,7 +37,7 @@
             "stock": 100,
             "featured": false,
             "status": "available",
-            "image": "https://unsplash.com/photos/PDX_a_82obo",
+            "image": "https://images.unsplash.com/photo-1541643600914-78b084683601?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=2148&q=80",
             "categories": [
               {
                 "name": "string"
