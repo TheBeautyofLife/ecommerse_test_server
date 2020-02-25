@@ -7,6 +7,7 @@
             "price": 100,
             "stock": 6,
             "featured": true,
+            "quantity": 0,
             "status": "available",
             "image": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=2250&q=80",
             "categories": [
@@ -36,6 +37,7 @@
             "price": 230,
             "stock": 100,
             "featured": false,
+            "quantity": 0,
             "status": "available",
             "image": "https://images.unsplash.com/photo-1541643600914-78b084683601?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=2148&q=80",
             "categories": [
@@ -65,6 +67,7 @@
             "price": 120,
             "stock": 100,
             "featured": false,
+            "quantity": 0,
             "status": "available",
             "image": "https://images.unsplash.com/photo-1542291026-7eec264c27ff?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=2100&q=80",
             "categories": [
